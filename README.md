@@ -58,3 +58,14 @@ This project was created for academic presentation and project demonstration.
 
 ---
 **Developed with ❤️ using Trae IDE**
+
+📬 Contact
+
+Mentor: P. Srikanth
+
+GitHub: https://github.com/srikanth5
+
+Durki Poshanna
+
+GitHub: https://github.com/Poshanna 
+Email: durkiposhanna19@gmail.com
