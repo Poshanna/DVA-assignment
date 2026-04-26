@@ -53,13 +53,7 @@ This dashboard provides a comprehensive analysis of Instagram interaction data, 
 5. **💡 Insights**: Automated findings and data-driven recommendations.
 6. **🚀 Ecosystem**: Documentation on the Trae development environment.
 
-## 📄 License
-This project was created for academic presentation and project demonstration.
-
----
-**Developed with ❤️ using Trae IDE**
-
-📬 Contact
+## 📬 Contact
 
 Mentor: P. Srikanth
 
