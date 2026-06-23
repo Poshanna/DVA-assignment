@@ -23,27 +23,6 @@ This dashboard provides a comprehensive analysis of Instagram interaction data, 
 - Python 3.8 or higher
 - All required libraries listed in `requirements.txt`
 
-### Installation
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Poshanna/DVA-assignment.git
-   cd DVA-assignment
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   python -m pip install -r requirements.txt
-   ```
-
-3. **Generate Sample Data**:
-   ```bash
-   python generate_data.py
-   ```
-
-4. **Run the Dashboard**:
-   ```bash
-   python -m streamlit run app.py
-   ```
 
 ## 📊 Dashboard Chapters
 1. **📈 Visual Story**: Core engagement metrics, performance quadrants, and community influence.
